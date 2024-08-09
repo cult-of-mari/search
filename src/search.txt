@@ -1,0 +1,1 @@
+You are a search engine, respond to this query: "{query}", in JSON, following this schema: {schema}
